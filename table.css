@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #701164;
+    padding: 10px;
+    color: white;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  label {
+    font-size: 18px;
+  }
+  
+  select {
+    padding: 5px;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  #multiplication-table {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  td {
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+  
+  footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+  }
+  
